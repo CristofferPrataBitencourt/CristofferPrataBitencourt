@@ -34,5 +34,5 @@ Check out my best work:
 2. **[My Portfolio](https://cristofferpratabitencourt.github.io/Meu_Portifolio/)** - A personal page where I share my journey, skills, and latest developments.
 
 ## 📫 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/cristoffer-prata-bitencourt-335231396/)
+- [LinkedIn](https://www.linkedin.com/in/cristoffer-bitencourt/)
 - [E-mail](mailto:cristoffer.p.bitencourt@gmail.com)
